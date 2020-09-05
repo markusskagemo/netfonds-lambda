@@ -1,5 +1,5 @@
 #### AWS Lambda cron-job: Oppdatering av datalagre  
-![alt text](https://github.com/saturdayquant/netfonds-lambda/tree/master/assets/kvant_lambda.png "Cron job programflyt")  
+![alt text](https://github.com/saturdayquant/netfonds-lambda/blob/master/assets/kvant_lambda.png "Cron job programflyt")  
 AWS Lambda kjører calls til Netfonds og legger til dataene i driven vår med Google Sheets API.
 
 #### Filbeskrivelser  
